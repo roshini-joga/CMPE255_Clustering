@@ -6,4 +6,4 @@ https://colab.research.google.com/drive/1SVvXrGSEgf8GOkPkefE3bzWRxI0TFKGj?usp=sh
 
 Video Explanation Link : 
 
-https://drive.google.com/file/d/1eAebiVVE8Pd4L1KN40_HGcqXnzr2L8rT/view?usp=drive_link
+https://drive.google.com/file/d/1rqBx5ZyEn23d8jvP3csGLa1EnqYDrcUv/view?usp=sharing
